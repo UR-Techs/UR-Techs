@@ -1,64 +1,26 @@
-<header>
+# Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## About Me  
+I'm an aspiring developer passionate about learning and building solutions that make a difference. After a few years of teaching, I've transitioned back into the tech world, pursuing my dream of becoming a **DevSecOps Engineer**. Currently, I'm focused on:
 
-# Introduction to GitHub
+- 🖥️ Learning **Python** and improving my programming skills.  
+- 🌐 Exploring the world of **DevSecOps** and building foundational knowledge in security.
 
-_Get started using GitHub in less than an hour._
+## Current Projects  
+- 🔐 Practicing **cybersecurity concepts**.
+- 🛠️ Developing solutions that integrate security into the DevOps pipeline.
+- 🌟 Building a small handmade **jewelry business** as part of my entrepreneurial journey.
 
-</header>
+## How I Work  
+I believe in the power of consistent learning and collaboration. Here are a few ways I approach my work:
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+- **Share My Journey:** Documenting my growth through technical challenges and creative pursuits.  
+- **Build in Public:** Sharing my projects and ideas on GitHub and LinkedIn.  
+- **Embrace Innovation:** Exploring new approaches and continuously learning from both successes and setbacks.  
 
-## Finish
+## Connect With Me  
+I'm excited to collaborate and learn from others! Feel free to connect with me:
 
-_Congratulations, you've completed this course and joined the world of developers!_
+- 💼 [LinkedIn](#)   https://www.linkedin.com/in/urooj-rafiq
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Thanks for visiting my GitHub profile. Let’s build something amazing together!
